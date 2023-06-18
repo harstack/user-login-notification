@@ -1,0 +1,17 @@
+# Ignore Terraform specific files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore sensitive files
+*.tfvars
+
+# Ignore generated files
+terraform.tfvars.json
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore build artifacts
+*.log
