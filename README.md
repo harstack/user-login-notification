@@ -75,4 +75,4 @@ This are the desired resources deployed for the mentioned use-case, feel free to
 It's GitHub, contributions are always welcome. If you find any issues or have suggestions, please open an issue or submit a pull request. You can help maintain this repository through your contributions.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/harstack/user-login-notification/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License (Version 2.0, January 2004) License - see the [LICENSE](https://github.com/harstack/user-login-notification/blob/main/LICENSE) file for details.
