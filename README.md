@@ -1,5 +1,5 @@
 # TERRAFORM: AWS USER LOGIN NOTIFICATION SERVICE
-This repository contains terraform code to deploy the AWS user login notification service.
+Description: This repository contains terraform code to deploy the AWS user login notification service. <br><br>
 <img src="resources\user-login-notification-diagram.png" alt text="User Login Notification Architecture" height="200">
 
 ## Tech Stack
